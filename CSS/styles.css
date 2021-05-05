@@ -135,6 +135,7 @@ strong{
     padding: 50px 0px 50px 0px;
     min-height: 400px;
     color: aliceblue;
+    text-align: center;
 }
 
 .interests-image{
@@ -160,3 +161,47 @@ strong{
     cursor: pointer;    
 }
 
+#section5{
+    background-image: url("section5-background.jpg");
+    background-position: center;
+    padding-bottom: 50px;
+}
+
+.current-roles-content{
+    margin: 10px auto 200px auto;
+    padding: 50px 0px 50px 0px;
+    color: snow;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("intro-card-background.jpg");
+    background-position: center;
+    border-radius: 10px;
+    text-align: center;
+    min-height: 400px;
+}
+
+.current-roles-image{
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#contactme{
+    background-image: url("contactme-background.jpg");
+    background-position: center;
+}
+
+.transparent-input{
+    background-color:rgba(0,0,0,0);
+    border: 1px solid;
+}
+
+.footer{
+    background-image: url("footer-background-1.jpg");
+    background-position: bottom;
+    margin: 0px auto;
+    padding: 50px 0px 20px 0px;
+    color: azure;
+}
+
+.btn-group{
+    width: 100%;
+}
