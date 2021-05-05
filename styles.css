@@ -1,0 +1,207 @@
+body{
+    padding: 0px 0px 0px 0px;
+    z-index: 0;
+}
+
+#section1{
+    background-image: url("section1-background.gif");
+}
+
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background-image: url("section1-background.gif");
+    color: #d6d6d6;
+    text-align: center;
+}
+
+.navbar-dark{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-image: url("section1-background.gif");
+}
+
+#logo{
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 15px;
+}
+
+.navbar-button{
+    padding: 0px 5px 0px 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-left: 2px ridge #666666;
+}
+
+#profile-photo{
+    border-radius: 10px;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 100px 0px 100px 0px;
+    min-height: 400px;
+}
+
+.aboutme-container{
+    margin: 0px auto;
+    padding: 100px 0px 0px 0px;
+    color: snow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.aboutme{
+    font-size: 40px;
+}
+
+.intro-card{
+    background-image: url("intro-card-background.jpg");
+    border-radius: 10px;
+}
+
+.intro-card-font{
+    font-family: "Papyrus";
+    color: wheat;
+}
+
+strong{
+    size: large;
+    color: tomato;
+}
+
+#section2{
+    background-image: url("section2-background.png");
+}
+
+.academia-container{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    color: snow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.academia{
+    font-size: 40px;
+}
+
+.academia-content{
+    margin: 0px auto;
+    color: white;
+}
+
+.academia-logo{
+    border-radius: 50%;
+    border: 8px ridge snow;
+    cursor: pointer;
+}
+
+.academia-blank-row{
+    margin: 0px auto;
+    height: 150px;
+}
+
+.row-left{
+    border-right: 2px ridge snow;
+}
+
+.row-right{
+    border-left: 2px ridge snow;
+}
+
+.academia-content-last{
+    padding-bottom: 50px;
+}
+
+#section3{
+    background-image: url("section3-background.gif");
+    background-position: center;  
+}
+
+.interests-container{
+    margin: 0px auto;
+    padding: 100px 0px 50px 0px;
+    color: snow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.interests-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    min-height: 400px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.interests-image{
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#section4{
+    background-image: url("section4-background.jpg");
+    background-position: center;
+}
+
+.skills-container{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    min-height: 400px;
+}
+
+.skills-card{
+    width: 40%;
+    padding: 0px;
+    margin: 10px auto;
+    cursor: pointer;    
+}
+
+#section5{
+    background-image: url("section5-background.jpg");
+    background-position: center;
+    padding-bottom: 50px;
+}
+
+.current-roles-content{
+    margin: 10px auto 200px auto;
+    padding: 50px 0px 50px 0px;
+    color: snow;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("intro-card-background.jpg");
+    background-position: center;
+    border-radius: 10px;
+    text-align: center;
+    min-height: 400px;
+}
+
+.current-roles-image{
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#contactme{
+    background-image: url("contactme-background.jpg");
+    background-position: center;
+}
+
+.transparent-input{
+    background-color:rgba(0,0,0,0);
+    border: 1px solid;
+}
+
+.footer{
+    background-image: url("footer-background-1.jpg");
+    background-position: bottom;
+    margin: 0px auto;
+    padding: 50px 0px 20px 0px;
+    color: azure;
+}
+
+.btn-group{
+    width: 100%;
+}
